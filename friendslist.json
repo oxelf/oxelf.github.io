@@ -1,0 +1,28 @@
+{
+ "friendscount": 4,
+  "online": 3
+ [
+  "playername": "mopafu",
+  "userid": "12354"
+  "speedpoints": 112,
+  "online": true
+ ], 
+ [
+  "playername": "Lörz",
+  "userid": "12353"
+  "speedpoints":90,
+  "online": true
+ ], 
+   [
+  "playername": "netexx",
+  "userid": "12352"
+  "speedpoints": 65,
+  "online": true
+ ],
+   [
+  "playername": "Syroc",
+  "userid": "12351"
+  "speedpoints": 94,
+  "online": false
+ ]
+}
