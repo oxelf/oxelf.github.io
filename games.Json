@@ -1,14 +1,13 @@
 {
-    "games": {
-        "title": "Clash Royale",
-        "playername": "TTV Oxelf",
-        "tag": "8LYURG9UV",
-        "stats": {
-            "trophies": 5789,
-            "record": 6315,
-            "winrate": "54%"
-        },
-        "image": "CR",
-        "color": "blue"
-    }
+     "title": "Clash Royale",
+     "playername": "TTV Oxelf",
+     "tag": "8LYURG9UV",
+     "stats": {
+       "trophies": 5789,
+       "record": 6315,
+       "winrate": "54%"
+       },
+     "image": "CR",
+     "color": "blue"
+    
 }
